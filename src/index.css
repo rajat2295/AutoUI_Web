@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header,
+footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem 0;
+}
+
+nav {
+  display: flex;
+}
+
+nav a {
+  margin-right: 1rem;
+}
