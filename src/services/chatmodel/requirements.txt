@@ -1,0 +1,8 @@
+langserve
+fastapi 
+uvicorn 
+langchain 
+llama-cpp-python
+ollama
+langchain-community
+sse_starlette
