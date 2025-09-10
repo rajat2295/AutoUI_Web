@@ -8,7 +8,6 @@
 //   Single article view with comments (mock), Sidebar widgets, Footer.
 
 import React, { useEffect, useMemo, useState } from "react";
-import ReactDOM from "react-dom";
 
 // ----------------------------- Theme Tokens ---------------------------------
 const THEME = {

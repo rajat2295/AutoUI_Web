@@ -71,7 +71,10 @@ const App = () => {
                 className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
               >
                 <video controls className="w-full h-48 object-cover">
-                  <source src="./video.mp4" type="video/mp4" />
+                  <source
+                    src="https://www.youtube.com/watch?v=pIF3wOet-zw&ab_channel=VICEAsia"
+                    type="video/mp4"
+                  />
                   Your browser does not support the video tag.
                 </video>
                 <div className="p-4">
